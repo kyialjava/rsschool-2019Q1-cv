@@ -1,0 +1,36 @@
+body {
+    width: 1024px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 18px;
+    background-color: #f0e8e8;
+}
+
+h1 {
+    color: rgb(49, 28, 100);
+}
+
+h2 {
+    color: #333333;
+    font-style: italic;
+}
+
+p {
+    font-size: 20px;
+}
+
+.contact {
+    color: rgb(60, 20, 236);
+}
+
+.skills {
+  color: #e72d2d;
+ }
+
+.certificates {
+  color: #1c833e;
+}
+
+.english {
+  text-decoration-line: underline; 
+}
